@@ -1,0 +1,519 @@
+,Name,Theme,Filter,transformation,splines
+0,Abate - bois - peso das carcaças,Produção,0,0,0
+1,Abate - bovinos - peso das carcaças,Produção,0,0,0
+2,Abate - frangos - peso das carcaças,Produção,0,0,0
+4,Abate - suínos - peso das carcaças,Produção,0,0,0
+5,Abate - vacas - peso das carcaças,Produção,0,0,0
+6,Abate - bois - qde.,Produção,0,0,0
+7,Abate - bovinos - qde.,Produção,0,0,0
+8,Abate - frangos - qde.,Produção,0,0,0
+10,Abate - suínos - qde.,Produção,0,0,0
+11,Abate - vacas - qde.,Produção,0,0,0
+12,"Expedição de caixas, acessórios e chapas - papelão ondulado - qde.",Produção,0,0,0
+14,Produção - gás natural - média - qde.,Produção,0,0,0
+15,Produção - petróleo - média - qde./dia,Produção,0,0,0
+23,Utilização da capacidade instalada - indústria,Produção,0,0,0
+24,Utilização da capacidade instalada - indústria - dessaz.,Produção,0,0,0
+25,Utilização da capacidade - indústria - extrativa mineral - média,Produção,0,0,0
+26,Produção - aço bruto,Produção,0,0,0
+27,Produção - ferro-gusa,Produção,0,0,0
+28,Produção - laminados,Produção,0,0,0
+76,Produção - cimento - qde.,Produção,0,0,0
+79,SPC - número de consultas,Consumo e vendas,1,0,0
+80,Usecheque - número de consultas,Consumo e vendas,1,0,0
+82,Consumo aparente - álcool carburante - média - qde./dia,Consumo e vendas,1,0,0
+83,Consumo aparente - derivados de petróleo - média - qde./dia,Consumo e vendas,1,0,0
+84,Consumo aparente - gasolina - média - qde./dia,Consumo e vendas,1,0,0
+85,Consumo aparente - gás GLP - média - qde./dia,Consumo e vendas,1,0,0
+86,Consumo aparente - derivados de petróleo - outros - média - qde./dia,Consumo e vendas,1,0,0
+87,Consumo aparente - óleo combustível - média - qde./dia,Consumo e vendas,1,0,0
+88,Consumo aparente - óleo diesel - média - qde./dia,Consumo e vendas,1,0,0
+89,Faturamento real - indústria - índice (média 2006 = 100),Consumo e vendas,1,0,0
+90,Faturamento real - indústria - índice dessaz. (média 2006 = 100),Consumo e vendas,1,0,0
+91,Consumo - energia elétrica - Região Centro-Oeste (CO) - qde.,Consumo e vendas,1,0,0
+92,Consumo - energia elétrica - comércio - qde.,Consumo e vendas,1,0,0
+93,Consumo - energia elétrica - indústria - qde.,Consumo e vendas,1,0,0
+94,Consumo - energia elétrica - Região Nordeste (NE) - qde.,Consumo e vendas,1,0,0
+95,Consumo - energia elétrica - Região Norte (N) - qde.,Consumo e vendas,1,0,0
+96,Consumo - energia elétrica - outros setores - qde.,Consumo e vendas,1,0,0
+97,Consumo - energia elétrica - residência - qde.,Consumo e vendas,1,0,0
+98,Consumo - energia elétrica - Região Sudeste (SE) - qde.,Consumo e vendas,1,0,0
+99,Consumo - energia elétrica - Região Sul (S) - qde.,Consumo e vendas,1,0,0
+100,Consumo - energia elétrica - qde.,Consumo e vendas,1,0,0
+101,Consumo - energia elétrica - comércio - tarifa média por MWh,Consumo e vendas,1,0,0
+102,Consumo - energia elétrica - indústria - tarifa média por MWh,Consumo e vendas,1,0,0
+103,Consumo - energia elétrica - residência - tarifa média por MWh,Consumo e vendas,1,0,0
+104,Consumo - energia elétrica - tarifa média por MWh,Consumo e vendas,1,0,0
+105,Índice de condições econômicas atuais (ICEA),Consumo e vendas,1,0,0
+106,Vendas de veículos pelas concessionárias - Automóveis,Consumo e vendas,1,0,0
+107,Vendas de veículos pelas concessionárias - Total,Consumo e vendas,1,0,0
+201,Operações de crédito - saldo da carteira de crédito - Total,Moeda e crédito,1,0,0
+210,Meio de Pagamento - Ampliado - M2 - depósitos em poupança   - fim de período,Moeda e crédito,1,0,0
+211,Meio de Pagamento - Ampliado - M2 - depósitos em poupança  - % PIB - fim de período,Moeda e crédito,0,0,0
+213,Meio de Pagamento - Restrito (M1) - depósitos à vista - média,Moeda e crédito,1,0,0
+214,Fatores condicionantes da base monetária - oper. de redesconto do BC,Moeda e crédito,1,3,0
+215,Fatores condicionantes da base monetária - depósitos de instituições financeiras,Moeda e crédito,1,1,0
+217,Fatores condicionantes da base monetária - oper. do setor externo,Moeda e crédito,1,1,0
+218,Fatores condicionantes da base monetária - oper. com títulos públicos federais,Moeda e crédito,1,1,0
+219,Fatores condicionantes da base monetária - outras contas,Moeda e crédito,0,1,0
+220,Fatores condicionantes da base monetária - variação da base monetária - papel-moeda emitido,Moeda e crédito,0,1,0
+221,Fatores condicionantes da base monetária - variação da base monetária - reservas bancárias,Moeda e crédito,0,1,0
+222,Fatores condicionantes da base monetária - Tesouro Nacional,Moeda e crédito,1,1,0
+223,Fatores condicionantes da base monetária - variação da base monetária,Moeda e crédito,1,1,0
+224,Meio de Pagamento - Ampliado - M3 - quotas de fundos de renda fixa - fim de período,Moeda e crédito,0,0,0
+226,Base Monetária  - Restrita (M0) - média,Moeda e crédito,1,0,0
+227,Base Monetária Restrita (M0) - fim de período,Moeda e crédito,0,0,0
+228,Base Monetária Restrita (M0) -  % do PIB - fim de período,Moeda e crédito,1,0,0
+229,Meio de Pagamento - Restrito (M1) - média,Moeda e crédito,1,0,0
+230,Meio de Pagamento - Restrito (M1) - fim de período,Moeda e crédito,0,0,0
+232,Meio de Pagamento - Ampliado - M2   - fim de período,Moeda e crédito,0,0,0
+234,Meio de Pagamento - Ampliado - M3 - fim de período,Moeda e crédito,0,0,0
+236,Meio de Pagamento - Ampliado -  M4  -  fim de período,Moeda e crédito,0,0,0
+238,Meio de Pagamento - Ampliado - M3 - oper. compromissadas com títulos federais - fim de período,Moeda e crédito,1,2,0
+239,Meio de Pagamento - Ampliado - M3 - oper. compromissadas com tít. fed.  - % do PIB - fim de período,Moeda e crédito,1,2,0
+242,Base Monetária - Restrita (M0) - papel-moeda emitido - fim de período,Moeda e crédito,0,0,0
+243,Base Monetária -  Restrita (M0) - papel-moeda emitido - média,Moeda e crédito,1,0,0
+245,Meio de Pagamento - Restrito (M1) - papel-moeda em poder do público - média,Moeda e crédito,1,0,0
+246,Base Monetária - Restrita (M0) - reservas bancárias - média,Moeda e crédito,1,0,0
+247,Base Monetária - Restrita (M0) - reservas bancárias - fim de período,Moeda e crédito,0,0,0
+248,Meio de Pagamento - Ampliado -  M4 - títulos federais (Selic)  - fim de período,Moeda e crédito,0,0,0
+250,Meio de Pagamento - Ampliado - M2 - títulos privados   - fim de período,Moeda e crédito,0,0,0
+258,Importações - preços - índice (média 2006 = 100),Comércio exterior,1,0,1
+264,Importações - quantum - índice (média 2006 = 100),Comércio exterior,1,0,0
+358,Termos de troca - índice (média 2006 = 100),Comércio exterior,1,0,0
+361,Exportações - produtos básicos - preços - índice (média 2006 = 100),Comércio exterior,1,0,1
+376,Exportações - produtos manufaturados - preços - índice (média 2006 = 100),Comércio exterior,1,0,1
+392,Exportações - produtos semi-manufaturados - preços - índice (média 2006 = 100),Comércio exterior,1,0,1
+393,Exportações - preços - índice (média 2006 = 100),Comércio exterior,1,0,1
+399,Exportações - produtos básicos - quantum - índice (média 2006 = 100),Comércio exterior,1,0,0
+414,Exportações - produtos manufaturados - quantum - índice (média 2006 = 100),Comércio exterior,1,0,0
+430,Exportações - produtos semi-manufaturados - quantum - índice (média 2006 = 100),Comércio exterior,1,0,0
+431,Exportações - quantum - índice (média 2006 = 100),Comércio exterior,1,0,0
+435,Exportações - rentabilidade - índice (dez. 2003 = 100),Comércio exterior,1,0,0
+471,Exportações (FOB) - destino: África,Comércio exterior,0,0,0
+472,Exportações (FOB) - destino: América do Norte,Comércio exterior,0,0,0
+473,"Exportações (FOB) - destino: América do Sul, Central e Caribe",Comércio exterior,0,0,0
+474,Exportações (FOB) - destino: Ásia e Pacífico,Comércio exterior,0,0,0
+475,Exportações (FOB) - destino: outros,Comércio exterior,0,0,0
+476,Exportações (FOB) - destino: Europa,Comércio exterior,0,0,0
+477,Exportações (FOB) - destino: Mercosul,Comércio exterior,0,0,0
+478,Exportações (FOB) - destino: Oriente Médio,Comércio exterior,0,0,0
+479,Exportações (FOB) - destino: Zona do Euro,Comércio exterior,0,0,0
+480,Importações (FOB) - origem: África,Comércio exterior,0,0,0
+481,Importações (FOB) - origem: América do Norte,Comércio exterior,0,0,0
+482,"Importações (FOB) - origem: América do Sul, Central e Caribe",Comércio exterior,0,0,0
+483,Importações (FOB) - origem: Ásia e Pacífico,Comércio exterior,0,0,0
+484,Importações (FOB) - origem: outros,Comércio exterior,0,0,0
+485,Importações (FOB) - origem: Europa,Comércio exterior,0,0,0
+486,Importações (FOB) - origem: Mercosul,Comércio exterior,0,0,0
+487,Importações (FOB) - origem: Oriente Médio,Comércio exterior,0,0,0
+488,Importações (FOB) - origem: Zona do Euro,Comércio exterior,0,0,0
+763,Importações - (FOB),Comércio exterior,1,0,0
+1022,Exportações - Gasolina,Comércio exterior,1,0,0
+1035,Exportações - fator agregado - produtos básicos - (FOB),Comércio exterior,1,0,0
+1036,Exportações - fator agregado - produtos industrializados - (FOB),Comércio exterior,1,0,0
+1037,Exportações - fator agregado - produtos manufaturados - (FOB),Comércio exterior,1,0,0
+1038,Exportações - fator agregado - produtos semimanufaturados - (FOB),Comércio exterior,1,0,0
+1039,Exportações - (FOB),Comércio exterior,1,0,0
+1040,Exportações - fator agregado - transações especiais - (FOB),Comércio exterior,1,0,0
+1041,Dívida mobiliária (Saldos) - Títulos do Tesouro Nacional-posição em carteira - BTN,Finanças públicas,0,2,0
+1044,DLSP - dívida externa líquida - estados e municípios,Finanças públicas,0,0,0
+1045,DLSP - dívida externa líquida - estados e municípios - % do PIB,Finanças públicas,0,0,0
+1046,DLSP - dívida externa líquida - Governo Federal e Banco Central,Finanças públicas,0,1,0
+1047,DLSP - dívida externa líquida - Governo Federal e Banco Central - % do PIB,Finanças públicas,0,1,0
+1054,DLSP - dívida interna líquida - estados e municípios,Finanças públicas,0,0,0
+1055,DLSP - dívida interna líquida - estados e municípios - % do PIB,Finanças públicas,0,0,0
+1056,DLSP - dívida interna líquida - Governo Federal e Banco Central,Finanças públicas,0,0,0
+1057,DLSP - dívida interna líquida - Governo Federal e Banco Central - % do PIB,Finanças públicas,0,0,0
+1060,Dívida mobiliária interna federal - fora do BC - posição em carteira - fim de período,Finanças públicas,0,0,0
+1063,DSLP -  total - estados e municípios,Finanças públicas,0,0,0
+1064,DSLP -  total - estados e municípios - % do PIB,Finanças públicas,0,0,0
+1065,DSLP - total - Governo Federal e Banco Central,Finanças públicas,0,0,0
+1066,DSLP - total - Governo Federal e Banco Central - % do PIB,Finanças públicas,0,0,0
+1070,Dívida mobiliária (Saldos) - Títulos do Tesouro Nacional-posição em carteira - LTN,Finanças públicas,0,0,0
+1080,NFSP - estados e municípios - juros nominais - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,0,0
+1081,NFSP - estados e municípios - juros nominais - s/ desvalorização cambial,Finanças públicas,0,1,0
+1082,NFSP - estados e municípios - juros nominais - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,0,0
+1083,NFSP - estados e municípios - nominal - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,1,0
+1084,NFSP - estados e municípios - nominal - s/ desvalorização cambial,Finanças públicas,0,1,0
+1085,NFSP - estados e municípios - nominal - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,3,0
+1086,NFSP - estados e municípios - primário - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,1,0
+1087,NFSP - estados e municípios - primário - s/ desvalorização cambial,Finanças públicas,0,1,0
+1088,NFSP - estados e municípios - primário - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,3,0
+1089,NFSP - gov. federal e Banco Central - juros nominais - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,0,0
+1090,NFSP - gov. federal e Banco Central - juros nominais - s/ desvalorização cambial,Finanças públicas,0,1,0
+1091,NFSP - gov. federal e Banco Central - juros nominais - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,0,0
+1092,NFSP - gov. federal e Banco Central - nominal - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,1,0
+1093,NFSP - gov. federal e Banco Central - nominal - s/ desvalorização cambial,Finanças públicas,0,1,0
+1094,NFSP - gov. federal e Banco Central - nominal - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,2,0
+1095,NFSP - gov. federal e Banco Central - primário - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,1,0
+1096,NFSP - gov. federal e Banco Central - primário  - s/ desvalorização cambial,Finanças públicas,0,1,0
+1097,NFSP - gov. federal e Banco Central - primário - s/ desvalorização cambial - acum. 12 meses,Finanças públicas,0,3,0
+1107,Dívida mobiliária (Saldos) - Títulos do Tesouro Nacional-posição em carteira - NTN,Finanças públicas,0,0,0
+1503,Contribuição - Finsocial / Cofins - total - receita bruta,Finanças públicas,0,0,0
+1504,Contribuição social sobre o lucro líquido (CSLL) - total - receita bruta,Finanças públicas,0,0,0
+1505,Demais receitas - receita bruta,Finanças públicas,0,0,0
+1506,Imposto sobre a importação (II) - total - receita bruta,Finanças públicas,0,0,0
+1507,Imposto sobre operações financeiras (IOF) - total - receita bruta,Finanças públicas,0,0,0
+1508,Imposto sobre produtos industrializados (IPI) - total - receita bruta,Finanças públicas,0,0,0
+1509,Imposto sobre produtos industrializados (IPI) - bebidas - receita bruta,Finanças públicas,0,0,0
+1510,Imposto sobre produtos industrializados (IPI) - fumo - receita bruta,Finanças públicas,0,0,0
+1511,Imposto sobre produtos industrializados (IPI) - outros - receita bruta,Finanças públicas,0,0,0
+1512,Imposto sobre produtos industrializados (IPI) - automóveis - receita bruta,Finanças públicas,0,0,0
+1513,Imposto sobre produtos industrializados (IPI) - vinculado à importação - receita bruta,Finanças públicas,0,0,0
+1514,Imposto sobre a renda (IR) - total - receita bruta,Finanças públicas,0,0,0
+1515,Imposto sobre a renda (IR) - pessoas físicas - total - receita bruta,Finanças públicas,0,0,0
+1516,Imposto sobre a renda (IR) - pessoas jurídicas - total - receita bruta,Finanças públicas,0,0,0
+1517,Imposto sobre a renda (IR) - retido nas fontes - total - receita bruta,Finanças públicas,0,0,0
+1518,Imposto sobre a renda (IR) - retido nas fontes - outros rendimentos - receita bruta,Finanças públicas,0,0,0
+1519,Imposto sobre a renda (IR) - retido nas fontes - rendimento do capital - receita bruta,Finanças públicas,0,0,0
+1520,Imposto sobre a renda (IR) - retido nas fontes - rendimento de remessa p/ ext. - receita bruta,Finanças públicas,0,0,0
+1521,Imposto sobre a renda (IR) - retido nas fontes - rendimento do trabalho - receita bruta,Finanças públicas,0,0,0
+1522,Imposto sobre a propriedade territorial rural (ITR) - receita bruta,Finanças públicas,0,1,0
+1523,Outras receitas administradas - receita bruta,Finanças públicas,0,1,0
+1524,Contribuição - PIS / Pasep - total - receita bruta,Finanças públicas,0,0,0
+1525,Arrecadação das receita federais - receita bruta,Finanças públicas,0,0,0
+1526,Receita administrada pela SRF - receita bruta,Finanças públicas,0,0,0
+1527,Câmbio contratado - financeiro - compra,Câmbio,1,0,0
+1528,Taxa de câmbio - R$ / US$ - comercial - compra - média,Câmbio,1,0,0
+1529,Taxa de câmbio - R$ / US$ - comercial - compra - fim período,Câmbio,0,0,0
+1530,Taxa de câmbio - R$ / US$ - comercial - venda - média,Câmbio,1,0,0
+1531,Taxa de câmbio - R$ / US$ - comercial - venda - fim período,Câmbio,0,0,0
+1532,Câmbio contratado - comercial - importação,Câmbio,1,0,0
+1533,Câmbio contratado - comercial - importação - média diária,Câmbio,0,0,0
+1534,Câmbio contratado - comercial,Câmbio,0,3,0
+1535,Câmbio contratado - comercial - média diária,Câmbio,0,3,0
+1536,Câmbio contratado - financeiro,Câmbio,1,1,0
+1537,Câmbio contratado - comercial e financeiro,Câmbio,0,1,0
+1538,Câmbio contratado - financeiro - venda,Câmbio,1,0,0
+1539,Câmbio contratado - comercial - exportação,Câmbio,0,0,0
+1540,Câmbio contratado - comercial - exportação - média diária,Câmbio,0,0,0
+1541,Taxa de paridade do poder de compra (PPC) - consumo das famílias,Câmbio,1,0,0
+1542,PIB,Contas nacionais,1,0,0
+1543,PIB - acumulado 12 meses,Contas nacionais,1,0,0
+1548,Consumo aparente - bens de consumo - índice (média 2012 = 100),Contas nacionais,1,0,0
+1549,Consumo aparente - bens de consumo duráveis - índice (média 2012 = 100),Contas nacionais,0,0,0
+1550,Consumo aparente - bens de consumo duráveis - índice dessaz. (média 2012 = 100),Contas nacionais,0,0,0
+1551,Consumo aparente - bens de consumo - índice dessaz. (média 2012 = 100),Contas nacionais,1,0,0
+1552,Consumo aparente - bens de consumo semi e não duráveis - índice (média 2012 = 100),Contas nacionais,0,0,0
+1553,Consumo aparente - bens de consumo semi e não duráveis - índice dessaz. (média 2002= 100),Contas nacionais,1,0,0
+1556,Consumo aparente - bens intermediários - índice (média 2012 = 100),Contas nacionais,1,0,0
+1557,Consumo aparente - bens intermediários - índice dessaz. (média 2012 = 100),Contas nacionais,0,0,0
+1602,Consumo aparente - bens de capital - índice (média 2012 = 100),Contas nacionais,1,0,0
+1603,Consumo aparente - bens de capital - índice dessaz. (média 2012 = 100),Contas nacionais,0,0,0
+1610,Preços - IPCA - preços livres - comercializáveis - var.,Preços,1,3,1
+1612,Preços - IPCA - núcleo por exclusão - ex1 - var,Preços,1,3,1
+1615,Preços - IPCA - preços livres - não comercializáveis - var.,Preços,1,3,1
+1616,Preços - IPCA - preços livres - var.,Preços,1,3,1
+1617,Preços - IPCA - preços livres - bens duráveis - var,Preços,1,3,1
+1618,Preços - IPCA - preços livres - bens não duráveis - var,Preços,1,1,1
+1619,Preços - IPCA - preços livres - bens semi duráveis - var,Preços,1,3,1
+1620,Preços - IPCA - preços livres - serviços - var,Preços,1,3,1
+1621,Preços - IPCA - preços monitorados - var.,Preços,1,3,1
+1622,Núcleo de dupla ponderação - IPCA,Preços,1,1,1
+1623,Preço médio - atacado - arroz (parboilizado tipo 2) - 30 kg - PR,Preços,0,0,1
+1624,Preço médio - atacado - arroz (polido tipo 1) - 30 kg - PR,Preços,0,0,1
+1625,Preço médio - atacado - bovinos - carcaça dianteira - kg - PR,Preços,0,0,1
+1626,Preço médio - atacado - bovinos - carcaça traseira - kg - PR,Preços,0,0,1
+1627,Preço médio - atacado - banha suína - kg - PR,Preços,0,0,1
+1628,Preço médio - atacado - canjica amarela - 50 kg - PR,Preços,0,0,1
+1629,Preço médio - atacado - feijão de cor - 30 kg - PR,Preços,0,0,1
+1630,Preço médio - atacado - fécula - 25 kg - PR,Preços,0,0,1
+1631,Preço médio - atacado - feijão preto - 30 kg - PR,Preços,0,0,1
+1632,Preço médio - atacado - farinha de mandioca crua - 50 kg - PR,Preços,0,0,1
+1633,Preço médio - atacado - farinha de mandioca torrada - 50 kg - PR,Preços,0,0,1
+1634,Preço médio - atacado - farinha de mandioca prensada - 50 kg - PR,Preços,0,0,1
+1635,Preço médio - atacado - frango congelado - kg - PR,Preços,0,0,1
+1636,Preço médio - atacado - milho (em farelo) - tonelada - PR,Preços,0,0,1
+1637,Preço médio - atacado - frango resfriado - kg - PR,Preços,0,0,1
+1638,Preço médio - atacado - soja (em farelo) - tonelada - PR,Preços,0,0,1
+1639,Preço médio - atacado - farinha de trigo - 50 kg - PR,Preços,0,0,1
+1640,Preço médio - atacado - farinha de trigo - especial - kg - PR,Preços,0,0,1
+1641,Preço médio - atacado - fubá amarelo - 50 kg - PR,Preços,0,0,1
+1642,Preço médio - atacado - manteiga extra - kg - PR,Preços,0,0,1
+1643,Preço médio - atacado - milho - 60 kg - PR,Preços,0,0,1
+1644,Preço médio - atacado - óleo de soja - bruto - tonelada - PR,Preços,0,0,1
+1645,Preço médio - atacado - óleo de soja - refinado - 20 latas - PR,Preços,0,0,1
+1646,Preço médio - atacado - ovo extra tipo 1 - 30 dúzias - PR,Preços,0,0,1
+1647,Preço médio - atacado - ovo grande tipo 2 - 30 dúzias - PR,Preços,0,0,1
+1648,Preço médio - atacado - ovo médio tipo 3 - 30 dúzias - PR,Preços,0,0,1
+1650,Preço médio - atacado - pinto de corte - unidade - PR,Preços,0,0,1
+1652,Preço médio - atacado - queijo minas frescal (kg - PR),Preços,0,0,1
+1653,Preço médio - atacado - queijo mussarela (kg - PR),Preços,0,0,1
+1654,Preço médio - atacado - queijo parmesão (kg - PR),Preços,0,0,1
+1655,Preço médio - atacado - queijo prato (kg - PR),Preços,0,0,1
+1656,Preço médio - atacado - suínos - de raça - carcaça - kg - PR,Preços,0,0,1
+1657,Preço médio - atacado - suínos - lombo sem osso - kg - PR,Preços,0,0,1
+1658,Preço médio - atacado - suínos - paleta com osso - kg - PR,Preços,0,0,1
+1659,Preço médio - atacado - suínos - pernil com osso - kg - PR,Preços,0,0,1
+1661,Preço médio - recebido pelo agricultor - arroz (em casca) - 50 kg - PR,Preços,0,0,1
+1663,Preço médio - recebido pelo agricultor - boi gordo - arroba - PR,Preços,0,0,1
+1664,Preço médio - recebido pelo agricultor - boi magro para engorda - cabeça - PR,Preços,0,0,1
+1665,Preço médio - recebido pelo agricultor - cana-de-açúcar - tonelada - PR,Preços,0,0,1
+1666,Preço médio - recebido pelo agricultor - café (em coco) -  kg / renda - PR,Preços,0,0,1
+1667,Preço médio - recebido pelo agricultor - feijão de cor - 60 kg - PR,Preços,0,0,1
+1668,Preço médio - recebido pelo agricultor - feijão preto - 60 kg - PR,Preços,0,0,1
+1669,Preço médio - atacado - frango vivo - kg - PR,Preços,0,0,1
+1670,Preço médio - recebido pelo agricultor - leite - litro - PR,Preços,0,0,1
+1671,Preço médio - recebido pelo agricultor - mandioca - tonelada - PR,Preços,0,0,1
+1672,Preço médio - recebido pelo agricultor - milho - 60 kg - PR,Preços,0,0,1
+1673,Preço médio - recebido pelo agricultor - ovo grande - 30 dúzias - PR,Preços,0,0,1
+1674,Preço médio - recebido pelo agricultor - ovo médio - 30 dúzias - PR,Preços,0,0,1
+1675,Preço médio - recebido pelo agricultor - soja - 60 kg - PR,Preços,0,0,1
+1676,Preço médio - recebido pelo agricultor - suínos - comuns - kg - PR,Preços,0,0,1
+1678,Cesta básica - município de São Paulo,Preços,0,0,1
+1684,Preços - IPC (FIPE),Preços,1,1,1
+1685,Preços - IPC - grupo: habitação - RMSP - var.,Preços,0,1,1
+1689,Preços - IPC - grupo: alimentação - RMSP - var.,Preços,0,1,1
+1693,Preços - IPC - grupo: transportes - RMSP - var.,Preços,0,1,1
+1697,Preços - IPC - grupo: despesas pessoais - RMSP - var.,Preços,0,1,1
+1701,Preços - IPC - grupo: saúde - RMSP - var.,Preços,0,1,1
+1705,Preços - IPC - grupo: vestuário - RMSP - var.,Preços,0,1,1
+1709,Preços - IPC - grupo: educação - RMSP - var.,Preços,0,1,1
+1713,Preços - IPC -1ª quadrissemana (FIPE),Preços,1,1,1
+1714,Preços - IPC -2ª quadrissemana (FIPE),Preços,1,1,1
+1715,Preços - IPC -3ª quadrissemana (FIPE),Preços,1,3,1
+1716,Preços - IPC - geral - índice (jun. 1994 = 100) - RMSP,Preços,1,0,1
+1727,Preços - IGP-10 - geral - índice (ago. 1994 = 100),Preços,1,0,1
+1728,Preços - IGP-DI - geral - índice (ago. 1994 = 100),Preços,1,0,1
+1729,Preços - IGP-DI,Preços,1,3,1
+1730,Preços - IGP-DI - geral - centrado - fim período - índice (ago. 1994 = 100),Preços,1,0,1
+1731,Preços - IGP-M - geral - índice (ago. 1994 = 100),Preços,1,0,1
+1732,Preços - IGP-M,Preços,1,3,1
+1733,Preços - IGP-M - 1º decêndio,Preços,1,3,1
+1734,Preços - IGP-M - 2º decêndio,Preços,1,3,1
+1735,Preços - IGP-OG - geral - índice (ago. 1994 = 100),Preços,1,0,1
+1736,Preços - IGP-OG,Preços,1,3,1
+1737,Preços - INCC-10 - geral - índice (ago. 1994 = 100),Preços,1,0,1
+1738,Preços - INCC-DI - geral - índice (ago. 1994 = 100),Preços,1,0,1
+1739,Preços - INCC-DI,Preços,1,1,1
+1740,Preços - INCC-M,Preços,1,1,1
+1741,Preços - INCC-M - 1º decêndio,Preços,1,3,1
+1742,Preços - INCC-M - 2º decêndio,Preços,1,3,1
+1743,Preços - IPA-10 - geral - índice (ago. 1994 = 100),Preços,1,0,1
+1744,Preços - IPA-DI - origem - prod. agropecuários - índice (ago. 1994 = 100),Preços,1,0,1
+1745,Preços - IPA-DI - geral - índice (ago. 1994 = 100),Preços,1,0,1
+1746,Preços - IPA-DI,Preços,1,3,1
+1747,Preços - IPA-DI - origem - prod. industriais - índice (ago. 1994 = 100),Preços,1,0,1
+1748,Preços - IPA-M,Preços,1,1,1
+1749,Preços - IPA-M - 1º decêndio,Preços,1,3,1
+1750,Preços - IPA-M - 2º decêndio,Preços,1,3,1
+1751,Preços - IPC-10 - geral - índice (ago. 1994 = 100),Preços,1,0,1
+1752,Preços - IPC-DI - geral - índice (ago. 1994 = 100),Preços,1,0,1
+1753,Preços - IPC-DI (FGV),Preços,1,3,1
+1754,Preços - IPC-M,Preços,1,3,1
+1755,Preços - IPC-M - 1º decêndio,Preços,1,3,1
+1756,Preços - IPC-M - 2º decêndio,Preços,1,3,1
+1790,Preços - INPC - geral - índice (dez. 1993 = 100),Preços,1,0,1
+1791,Preços - INPC - alimentos e bebidas - var.,Preços,1,3,1
+1792,Preços - INPC -artigos de residência - var.,Preços,1,3,1
+1793,Preços -INPC - geral,Preços,1,3,1
+1794,Preços - INPC - despesas pessoais - var.,Preços,1,3,1
+1797,Preços - INPC - habitação - var.,Preços,1,1,1
+1798,Preços - INPC - saúde e cuidados pessoais - var.,Preços,1,3,1
+1799,Preços - INPC -transportes - var.,Preços,1,3,1
+1800,Preços - INPC - vestuário - var.,Preços,1,3,1
+1801,Preços - IPCA - geral - índice (dez. 1993 = 100),Preços,1,0,1
+1803,Preços - IPCA - alimentos e bebidas - var.,Preços,1,1,1
+1804,Preços - IPCA - artigos de residência - var.,Preços,1,3,1
+1805,Preços - IPCA - despesas pessoais - var.,Preços,1,1,1
+1808,Preços - IPCA - geral,Preços,1,3,1
+1809,Preços - IPCA - habitação - var.,Preços,1,3,1
+1810,Preços - IPCA - saúde e cuidados pessoais - var.,Preços,1,3,1
+1811,Preços - IPCA - RMSP - var.,Preços,1,3,1
+1812,Preços - IPCA - transportes - var.,Preços,1,3,1
+1813,Preços - IPCA - vestuário - var.,Preços,1,3,1
+1814,Reservas internacionais,Balanço de pagamentos,0,0,0
+1815,Balanço de Pagam. - Ativos de reserva,Balanço de pagamentos,0,1,0
+1816,Balanço de Pagam. - Balança comercial - Saldo,Balanço de pagamentos,0,1,0
+1817,Balanço de Pagam. - Balança comercial - Importações,Balanço de pagamentos,0,0,0
+1818,Balanço de Pagam. - Balança comercial - Exportações,Balanço de pagamentos,0,0,0
+1819,Balanço de Pagam. - Conta Financeira - Saldo (Captações - Concessões),Balanço de pagamentos,0,1,0
+1820,Balanço de Pagam. - Conta capital - Saldo,Balanço de pagamentos,0,1,0
+1821,Balanço de Pagam. - Conta capital - Desp.,Balanço de pagamentos,0,2,0
+1822,Balanço de Pagam. - Conta capital - Rec.,Balanço de pagamentos,0,0,0
+1823,Balanço de Pagam. - Outros invest. - Créd. comerciais e adiantamentos - Saldo (Passivos - Ativos),Balanço de pagamentos,0,1,0
+1824,Balanço de Pagam. - Outros invest. - Créd. comerciais e adiantamentos - Ativos,Balanço de pagamentos,0,3,0
+1825,Balanço de Pagam. - Outros invest. - Créd. comerciais e adiantamentos - Passivos,Balanço de pagamentos,0,1,0
+1826,Balanço de Pagam. - Derivativos - Saldo (Passivos - Ativos),Balanço de pagamentos,0,1,0
+1827,Balanço de Pagam. - Derivativos - Ativos,Balanço de pagamentos,0,1,0
+1828,Balanço de Pagam. - Derivativos - Passivos,Balanço de pagamentos,0,1,0
+1829,Balanço de Pagam. - Outros invest. - Empréstimos - Saldo,Balanço de pagamentos,0,1,0
+1830,Balanço de Pagam. - Outros invest. - Empréstimos - Ativos - Saldo,Balanço de pagamentos,0,1,0
+1831,Balanço de Pagam. - Outros invest. - Empréstimos - Ativos - Ingressos,Balanço de pagamentos,0,1,0
+1832,Balanço de Pagam. - Outros invest. - Empréstimos - Ativos - Saídas,Balanço de pagamentos,0,1,0
+1833,Balanço de Pagam. - Outros invest. - Empréstimos - Passivos - Saldo,Balanço de pagamentos,0,1,0
+1834,Balanço de Pagam. - Outros invest. - Empréstimos - Passivos - Ingressos,Balanço de pagamentos,0,0,0
+1835,Balanço de Pagam. - Outros invest. - Empréstimos - Passivos - Saídas,Balanço de pagamentos,0,0,0
+1836,Balanço de Pagam. - Erros e omissões,Balanço de pagamentos,0,1,0
+1837,Balanço de Pagam. - Emprést. e tít. de CP negoc. merc. externo - Saldo,Balanço de pagamentos,0,1,0
+1838,Balanço de Pagam. - Emprést. e tít. de LP negoc. merc. externo - Saldo,Balanço de pagamentos,0,1,0
+1839,Balanço de Pagam. - Emprést. e tít. de LP negoc. merc. externo - Amortizações,Balanço de pagamentos,0,0,0
+1840,Balanço de Pagam. - Emprést. e tít. de LP negoc. merc. externo - Amortizações - Demais emprést.,Balanço de pagamentos,0,0,0
+1841,Balanço de Pagam. - Emprést. e tít. de LP negoc. merc. externo - Amortizações - Emprést. diretos,Balanço de pagamentos,0,0,0
+1842,Balanço de Pagam. - Emprést. e tít. de LP negoc. merc. externo - Amortizações - Títulos priv.,Balanço de pagamentos,0,0,0
+1843,Balanço de Pagam. - Emprést. e tít. de LP negoc. merc. externo - Amortizações - Títulos púb.,Balanço de pagamentos,0,3,0
+1844,Balanço de Pagam. - Emprést. e tít. de LP negoc. merc. externo - Ingressos,Balanço de pagamentos,0,0,0
+1845,Balanço de Pagam. - Emprést. e tít. de LP negoc. merc. externo - Ingressos - Demais emprést.,Balanço de pagamentos,0,0,0
+1846,Balanço de Pagam. - Emprést. e tít. de LP negoc. merc. externo - Ingressos - Emprést. Diretos,Balanço de pagamentos,0,0,0
+1847,Balanço de Pagam. - Emprést. e tít. de LP negoc. merc. externo - Ingressos - Títulos priv.,Balanço de pagamentos,0,0,0
+1848,Balanço de Pagam. - Emprést. e tít. de LP negoc. merc. externo - Ingressos - Títulos púb.,Balanço de pagamentos,0,3,0
+1852,Balanço de Pagam. - Invest. cart. - Ativos - Saldo,Balanço de pagamentos,0,1,0
+1853,Balanço de Pagam. - Invest. cart. - Ativos - Invest. ações - Saldo,Balanço de pagamentos,0,1,0
+1854,Balanço de Pagam. - Invest. cart. - Ativos - Invest. ações - Aquisição,Balanço de pagamentos,0,0,0
+1855,Balanço de Pagam. - Invest. cart. - Ativos - Invest. ações - Venda,Balanço de pagamentos,0,2,0
+1856,Balanço de Pagam. - Invest. cart. - Ativos - Desp.,Balanço de pagamentos,0,0,0
+1857,Balanço de Pagam. - Invest. cart. - Ativos - Invest. fundos de investimento - Saldo,Balanço de pagamentos,0,1,0
+1858,Balanço de Pagam. - Invest. cart. - Ativos - Invest. fundos de investimento - Aquisição,Balanço de pagamentos,0,0,0
+1859,Balanço de Pagam. - Invest. cart. - Ativos - Invest. fundos de investimento - Venda,Balanço de pagamentos,0,0,0
+1860,Balanço de Pagam. - Invest. cart. - Ativos - Rec.,Balanço de pagamentos,0,0,0
+1861,Balanço de Pagam. - Invest. cart. - Ativos - Títulos renda fixa - Saldo,Balanço de pagamentos,0,1,0
+1862,Balanço de Pagam. - Invest. cart. - Ativos - Títulos renda fixa - Aquisição,Balanço de pagamentos,0,3,0
+1863,Balanço de Pagam. - Invest. cart. - Ativos - Títulos renda fixa - Venda,Balanço de pagamentos,0,1,0
+1864,Balanço de Pagam. - Invest. cart. - Passivos - Saldo,Balanço de pagamentos,0,1,0
+1865,Balanço de Pagam. - Invest. cart. - Passivos - invest. ações - Saldo,Balanço de pagamentos,0,1,0
+1866,Balanço de Pagam. - Invest. cart. - Passivos - invest. ações - Ingressos,Balanço de pagamentos,0,0,0
+1867,Balanço de Pagam. - Invest. cart. - Passivos - invest. ações - Saídas,Balanço de pagamentos,0,0,0
+1868,Balanço de Pagam. - Invest. cart. - Passivos - Desp.,Balanço de pagamentos,0,0,0
+1869,Balanço de Pagam. - Invest. cart. - Passivos - Invest. fundos de investimento - Saldo,Balanço de pagamentos,0,3,0
+1870,Balanço de Pagam. - Invest. cart. - Passivos - Invest. fundos de investimento - Ingressos,Balanço de pagamentos,0,2,0
+1871,Balanço de Pagam. - Invest. cart. - Passivos - Invest. fundos de investimento - Saídas,Balanço de pagamentos,0,2,0
+1872,Balanço de Pagam. - Invest. cart. - Passivos - Rec.,Balanço de pagamentos,0,0,0
+1873,Balanço de Pagam. - Invest. cart. - Passivos - Títulos de renda fixa - Saldo,Balanço de pagamentos,0,1,0
+1874,Balanço de Pagam. - Invest. cart. - Passivos - Tít. renda fixa negoc. merc. doméstico - Saldo,Balanço de pagamentos,0,1,0
+1875,Balanço de Pagam. - Invest. cart. - Passivos - Tít. renda fixa negoc. merc. doméstico - Ingressos,Balanço de pagamentos,0,0,0
+1876,Balanço de Pagam. - Invest. cart. - Passivos - Tít. renda fixa negoc. merc. doméstico - Saídas,Balanço de pagamentos,0,0,0
+1877,Balanço de Pagam. - Invest. cart. - Passivos - Títulos de renda fixa - Ingressos,Balanço de pagamentos,0,0,0
+1878,Balanço de Pagam. - Invest. cart. - Passivos - Tít. renda fixa negoc. merc. internacional - Saldo,Balanço de pagamentos,0,1,0
+1879,Balanço de Pagam. - Invest. cart. - Passivos- Tít. renda fixa negoc. merc. internacional - Ingressos,Balanço de pagamentos,0,0,0
+1880,Balanço de Pagam. - Invest. cart. - Passivos - Tít. renda fixa negoc. merc. internacional - Saídas,Balanço de pagamentos,0,0,0
+1881,Balanço de Pagam. - Invest. cart. - Passivos - Títulos de renda fixa - Saídas,Balanço de pagamentos,0,0,0
+1882,Balanço de Pagam. - Invest. dir. ext. - Saldo,Balanço de pagamentos,0,1,0
+1883,Balanço de Pagam. - Invest. dir. ext. - Ingressos,Balanço de pagamentos,0,0,0
+1884,Balanço de Pagam. - Invest. dir. ext. - Op. intercompanhia - Saldo,Balanço de pagamentos,0,3,0
+1885,Balanço de Pagam. - Invest. dir. ext. - Op. intercompanhia -  Amortizações recebidas do exterior,Balanço de pagamentos,0,2,0
+1886,Balanço de Pagam. - Invest. dir. ext. - Op. intercompanhia - Créditos concedidos ao exterior,Balanço de pagamentos,0,2,0
+1887,Balanço de Pagam. - Invest. dir. ext. - Particip. capital - Saldo,Balanço de pagamentos,0,1,0
+1888,Balanço de Pagam. - Invest. dir. ext. - Particip. capital - Ingressos,Balanço de pagamentos,0,0,0
+1890,Balanço de Pagam. - Invest. dir. ext. - Particip. capital - Saídas,Balanço de pagamentos,0,1,0
+1891,Balanço de Pagam. - Invest. dir. ext. - Saídas,Balanço de pagamentos,0,1,0
+1892,Balanço de Pagam. - Invest. dir. país - Saldo,Balanço de pagamentos,0,1,0
+1893,Balanço de Pagam. - Invest. dir. país - Ingressos,Balanço de pagamentos,0,0,0
+1894,Balanço de Pagam. - Invest. dir. país - Op. intercompanhia - Saldo,Balanço de pagamentos,0,1,0
+1895,Balanço de Pagam. - Invest. dir. país - Op. intercompanhia - Amortizações pagas ao exterior,Balanço de pagamentos,0,0,0
+1896,Balanço de Pagam. - Invest. dir. país - Op. intercompanhia - Créditos recebidos do exterior,Balanço de pagamentos,0,0,0
+1897,Balanço de Pagam. - Invest. dir. país - Particip. capital - Saldo,Balanço de pagamentos,0,1,0
+1898,Balanço de Pagam. - Invest. dir. país - Particip. capital - Ingressos,Balanço de pagamentos,0,0,0
+1900,Balanço de Pagam. - Invest. dir. país - Particip. capital - Saídas,Balanço de pagamentos,0,0,0
+1901,Balanço de Pagam. - Invest. dir. país - Saídas,Balanço de pagamentos,0,0,0
+1902,Balanço de Pagam. - Outros invest. - Moeda e depósitos - Saldo (Passivos - Ativos),Balanço de pagamentos,0,1,0
+1903,Balanço de Pagam. - Outros invest. - Moeda e depósitos - Ativos,Balanço de pagamentos,0,1,0
+1904,Balanço de Pagam. - Outros invest. - Moeda e depósitos - Passivos,Balanço de pagamentos,0,1,0
+1905,Balanço de Pagam. - Outros invest. - Saldo (Passivos - Ativos),Balanço de pagamentos,0,1,0
+1906,Balanço de Pagam. - Outros invest. - Ativos,Balanço de pagamentos,0,1,0
+1907,Balanço de Pagam. - Outros invest. - Passivos,Balanço de pagamentos,0,1,0
+1908,Balanço de Pagam. - Renda prim. - Saldo,Balanço de pagamentos,0,1,0
+1909,Balanço de Pagam. - Renda prim. - Desp.,Balanço de pagamentos,0,0,0
+1910,Balanço de Pagam. - Renda prim. - Renda invest. cart. - Saldo,Balanço de pagamentos,0,1,0
+1911,Balanço de Pagam. - Renda prim. - Renda invest. cart. - Desp.,Balanço de pagamentos,0,0,0
+1912,Balanço de Pagam. - Renda prim. - Renda invest. cart. - Juros de tít. negoc. merc. dom. - Desp.,Balanço de pagamentos,0,3,0
+1913,Balanço de Pagam. - Renda prim. - Renda invest. cart. - Juros de tít. negoc. merc. ext. - Saldo,Balanço de pagamentos,0,1,0
+1914,Balanço de Pagam. - Renda prim. - Renda invest. cart. - Juros de tít. negoc. merc. ext. - Desp.,Balanço de pagamentos,0,0,0
+1915,Balanço de Pagam. - Renda prim. - Renda invest. cart. - Juros de tít. negoc. merc. ext. - Rec.,Balanço de pagamentos,0,2,0
+1916,Balanço de Pagam. - Renda prim. - Renda invest. cart. - Lucros e dividendos - Saldo,Balanço de pagamentos,0,1,0
+1917,Balanço de Pagam. - Renda prim. - Renda invest. cart. - Lucros e dividendos - Desp.,Balanço de pagamentos,0,0,0
+1918,Balanço de Pagam. - Renda prim. - Renda invest. cart. - Lucros e dividendos - Rec.,Balanço de pagamentos,0,2,0
+1919,Balanço de Pagam. - Renda prim. - Renda invest. cart. - Rec.,Balanço de pagamentos,0,0,0
+1920,Balanço de Pagam. - Renda prim. - Renda invest. dir. - Saldo,Balanço de pagamentos,0,1,0
+1921,Balanço de Pagam. - Renda prim. - Renda invest. dir. - Desp.,Balanço de pagamentos,0,0,0
+1922,Balanço de Pagam. - Renda prim. - Renda invest. dir. - Juros de op. intercompanhia - Saldo,Balanço de pagamentos,0,1,0
+1923,Balanço de Pagam. - Renda prim. - Renda invest. dir. - Juros de op. intercompanhia - Desp.,Balanço de pagamentos,0,0,0
+1924,Balanço de Pagam. - Renda prim. - Renda invest. dir. - Juros de op. intercompanhia - Rec.,Balanço de pagamentos,0,0,0
+1925,"Balanço de Pagam. - Renda prim.- Renda invest. dir.- Lucros e dividendos, exceto reinvestidos -Saldo",Balanço de pagamentos,0,1,0
+1926,"Balanço de Pagam. - Renda prim.- Renda invest. dir.- Lucros e dividendos, exceto reinvestidos -Desp.",Balanço de pagamentos,0,0,0
+1927,"Balanço de Pagam. - Renda prim.- Renda invest. dir.- Lucros e dividendos, exceto reinvestidos - Rec.",Balanço de pagamentos,0,0,0
+1931,Balanço de Pagam. - Renda prim. - Renda invest. dir. - Rec.,Balanço de pagamentos,0,1,0
+1932,Balanço de Pagam. - Renda prim. - Renda de outros invest. (inclui juros) - Saldo,Balanço de pagamentos,0,1,0
+1933,Balanço de Pagam. - Renda prim. - Renda de outros invest. (inclui juros) - Desp.,Balanço de pagamentos,0,0,0
+1934,Balanço de Pagam. - Renda prim. - Renda de outros invest. (inclui juros) - Rec.,Balanço de pagamentos,0,0,0
+1935,Balanço de Pagam. - Renda prim. - Rec.,Balanço de pagamentos,0,0,0
+1936,Balanço de Pagam. - Renda prim. - Renda de reservas - Rec.,Balanço de pagamentos,0,0,0
+1937,Balanço de Pagam. - Renda prim. - Salários e ordenados - Saldo,Balanço de pagamentos,0,1,0
+1938,Balanço de Pagam. - Renda prim. - Salários e ordenados - Desp.,Balanço de pagamentos,0,0,0
+1939,Balanço de Pagam. - Renda prim. - Salários e ordenados - Rec.,Balanço de pagamentos,0,0,0
+1940,Balanço de Pagam. - Renda sec. - Saldo,Balanço de pagamentos,0,1,0
+1941,Balanço de Pagam. - Renda sec. - Desp.,Balanço de pagamentos,0,0,0
+1942,Balanço de Pagam. - Renda sec. - Rec.,Balanço de pagamentos,0,0,0
+1943,Balanço de Pagam. - Serviços - Saldo,Balanço de pagamentos,0,1,0
+1944,Balanço de Pagam. - Serviços - Aluguel de equipamentos - Saldo,Balanço de pagamentos,0,1,0
+1945,Balanço de Pagam. - Serviços - Aluguel de equipamentos - Desp.,Balanço de pagamentos,0,0,0
+1946,Balanço de Pagam. - Serviços - Aluguel de equipamentos - Rec.,Balanço de pagamentos,0,2,0
+1947,Balanço de Pagam. - Serviços - Construção - Saldo,Balanço de pagamentos,0,3,0
+1948,Balanço de Pagam. - Serviços - Construção - Desp.,Balanço de pagamentos,0,2,0
+1949,Balanço de Pagam. - Serviços - Construção - Rec.,Balanço de pagamentos,0,2,0
+1950,"Balanço de Pagam. - Serviços - Serv. culturais, pessoais e recreativos - Saldo",Balanço de pagamentos,0,1,0
+1951,"Balanço de Pagam. - Serviços - Serv. culturais, pessoais e recreativos - Desp.",Balanço de pagamentos,0,0,0
+1952,"Balanço de Pagam. - Serviços - Serv. culturais, pessoais e recreativos - Rec.",Balanço de pagamentos,0,0,0
+1953,Balanço de Pagam. - Serviços - Desp.,Balanço de pagamentos,0,0,0
+1954,Balanço de Pagam. - Serviços - Serv. financeiros - Saldo,Balanço de pagamentos,0,1,0
+1955,Balanço de Pagam. - Serviços - Serv. financeiros - Desp.,Balanço de pagamentos,0,0,0
+1956,Balanço de Pagam. - Serviços - Serv. financeiros - Rec.,Balanço de pagamentos,0,0,0
+1957,Balanço de Pagam. - Serviços - Serv. governamentais - Saldo,Balanço de pagamentos,0,1,0
+1958,Balanço de Pagam. - Serviços - Serv. governamentais - Desp.,Balanço de pagamentos,0,0,0
+1959,Balanço de Pagam. - Serviços - Serv. governamentais - Rec.,Balanço de pagamentos,0,0,0
+1960,Balanço de Pagam. - Serviços - Serv. de propriedade intelectual - Saldo,Balanço de pagamentos,0,1,0
+1961,Balanço de Pagam. - Serviços - Serv. de propriedade intelectual - Desp.,Balanço de pagamentos,0,0,0
+1962,Balanço de Pagam. - Serviços - Serv. de propriedade intelectual - Rec.,Balanço de pagamentos,0,0,0
+1963,Balanço de Pagam. - Serviços - Serv. manuf. sobre insumos físicos pert. a outros - Saldo,Balanço de pagamentos,0,3,0
+1964,Balanço de Pagam. - Serviços - Serv. manuf. sobre insumos físicos pert. a outros - Desp.,Balanço de pagamentos,0,2,0
+1965,Balanço de Pagam. - Serviços - Serv. manuf. sobre insumos físicos pert. a outros - Rec.,Balanço de pagamentos,0,2,0
+1966,Balanço de Pagam. - Serviços - Serv. manut. e reparo - Saldo,Balanço de pagamentos,0,1,0
+1967,Balanço de Pagam. - Serviços - Serv. manut. e reparo - Desp.,Balanço de pagamentos,0,2,0
+1968,Balanço de Pagam. - Serviços - Serv. manut. e reparo - Rec.,Balanço de pagamentos,0,0,0
+1969,Balanço de Pagam. - Serviços - Outros serv. de negócio - Saldo,Balanço de pagamentos,0,1,0
+1970,Balanço de Pagam. - Serviços - Outros serv. de negócio - Desp.,Balanço de pagamentos,0,0,0
+1971,Balanço de Pagam. - Serviços - Outros serv. de negócio - Rec.,Balanço de pagamentos,0,0,0
+1972,Balanço de Pagam. - Serviços - Rec.,Balanço de pagamentos,0,0,0
+1973,Balanço de Pagam. - Serviços - Seguros - Saldo,Balanço de pagamentos,0,1,0
+1974,Balanço de Pagam. - Serviços - Seguros - Desp.,Balanço de pagamentos,0,0,0
+1975,Balanço de Pagam. - Serviços - Seguros - Rec.,Balanço de pagamentos,0,0,0
+1976,"Balanço de Pagam. - Serviços - Telecomunicação, computação e informações - Saldo",Balanço de pagamentos,0,1,0
+1977,"Balanço de Pagam. - Serviços - Telecomunicação, computação e informações - Desp.",Balanço de pagamentos,0,0,0
+1978,"Balanço de Pagam. - Serviços - Telecomunicação, computação e informações - Rec.",Balanço de pagamentos,0,1,0
+1979,Balanço de Pagam. - Serviços - Transportes - Saldo,Balanço de pagamentos,0,1,0
+1980,Balanço de Pagam. - Serviços - Transportes - Desp.,Balanço de pagamentos,0,0,0
+1981,Balanço de Pagam. - Serviços - Transportes - Rec.,Balanço de pagamentos,0,0,0
+1982,Balanço de Pagam. - Serviços - Viagens - Saldo,Balanço de pagamentos,0,1,0
+1983,Balanço de Pagam. - Serviços - Viagens - Desp.,Balanço de pagamentos,0,0,0
+1984,Balanço de Pagam. - Serviços - Viagens - Rec.,Balanço de pagamentos,0,0,0
+1985,Balanço de Pagam. - Transações correntes - Saldo,Balanço de pagamentos,0,1,0
+1990,Horas trabalhadas - indústria - índice (média 2006 = 100),Emprego,1,0,0
+1991,Horas trabalhadas - indústria - índice dessaz. (média 2006 = 100),Emprego,1,0,0
+1992,Pessoal empregado - indústria - índice (média 2006 = 100),Emprego,1,0,0
+1993,Pessoal empregado - indústria - índice dessaz. (média 2006 = 100),Emprego,1,0,0
+2011,Salário mínimo - paridade do poder de compra (PPC),Salário e renda,1,0,0
+2012,Salário mínimo real,Salário e renda,1,0,0
+2013,Salário mínimo,Salário e renda,1,0,0
+2029,Dívida pública total,Sinopse macroeconômica,0,0,0
+2030,Taxa de câmbio nominal,Sinopse macroeconômica,0,0,0
+2031,Índice Geral de Preços (IGP-DI),Sinopse macroeconômica,0,1,1
+2032,Índice de Preços ao Consumidor Ampliado (IPCA),Sinopse macroeconômica,0,3,1
+2034,Balança comercial - Importações (BPM6),Sinopse macroeconômica,0,0,0
+2040,Balança comercial - Saldo (BPM6),Sinopse macroeconômica,0,1,0
+2041,Transações correntes - Saldo (BPM6),Sinopse macroeconômica,0,1,0
+2043,Taxa de juros nominal - Over / Selic,Sinopse macroeconômica,0,0,0
+2044,Balança comercial - Exportações (BPM6),Sinopse macroeconômica,0,0,0
+2058,Índice de confiança do consumidor (ICC),Percepção e expectativa,1,0,0
+2059,Índice de expectativas (IEC),Percepção e expectativa,1,0,0
+2060,Índice de ações - Ibovespa - fechamento,Financeiras,1,1,0
+2061,Poupança - rendimento nominal - 1º dia útil (até 03.05.2012),Financeiras,1,0,0
+2066,Poupança - rendimento até 03.05.2012 - Rentabilidade - 1º dia do mês,Financeiras,0,0,0
+2067,Taxa de juros - CDI / Over - acumulada no mês,Financeiras,1,0,0
+2068,Taxa de juros - TJLP,Financeiras,0,0,0
+2069,Taxa de juros - Over / Selic - acumulada no mês,Financeiras,1,0,0
+2071,Taxa de juros - TR - primeiro dia do mês,Financeiras,0,2,0
+2076,Caderneta de poupança (total) - Saldos,Financeiras,1,0,0
+2077,Número de dias úteis,Financeiras,0,0,0
+2078,Exportações (Kg) - Gasolina,Comércio exterior,1,0,0
+2079,Fundo de garantia por tempo de serviço (FGTS) - arrecadação bruta,Finanças públicas,0,0,0
+2080,Taxa de desemprego - RMSP,Emprego,1,0,0
